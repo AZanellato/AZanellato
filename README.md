@@ -2,8 +2,8 @@
 
 I am a brazillian software developer, working professionaly with Ruby, Elixir and Javascript. 
 
-I love reading - fiction and non-fiction. I really value honest and candid communication and collaboration and 
-empathy for people.
+I love reading - fiction and non-fiction.
+I really value honest and candid communication and collaboration and empathy for people.
 Everything we do involves social interactions and we need to be good to each other - tech is not apolitical.
 
 
